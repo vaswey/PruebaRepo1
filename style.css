@@ -1,0 +1,23 @@
+@import url('normalize.css');
+
+/* ------ ------ Estilos de normalización ------ ------ */
+
+body{
+    background: rgb(241, 241, 241);
+}
+
+.navigation{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    background-color: #1EBEA5;
+    color: #fff;
+    text-decoration: none;
+}
+
+section{
+    background: #232F3C;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
