@@ -21,3 +21,8 @@ section{
     padding: 10px;
     text-align: center;
 }
+
+article .do{
+    background: #00BCD4;
+    color: black;
+}
