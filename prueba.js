@@ -1,6 +1,6 @@
 const objInArray = [
 {
   Colombia: Bogota,
-  Argentina: Bues Aires
-  }
+  Argentina: BuesAires
+}
 ];
